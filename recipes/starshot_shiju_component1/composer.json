@@ -1,0 +1,9 @@
+{
+    "name": "drupal/starshot_shiju_component1",
+    "type": "drupal-recipe",
+    "description": "Provides a site name.",
+    "version": "dev-main",
+    "require": {
+        "drupal/core": ">=10.3"
+    }
+}
