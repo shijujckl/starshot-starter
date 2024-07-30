@@ -1,11 +1,10 @@
 ![build status](https://github.com/phenaproxima/starshot-prototype/actions/workflows/main.yml/badge.svg)
 
-**This is an experimental prototype. Don't use it for production sites!**
+**This is an experimental prototype to showcase starshot. Don't use it for production sites!**
 
 ## Drupal Starshot
 Starshot is Drupal 10, but supercharged with some of the best modules and themes out there, set up in useful ways to help you get started building a site right away. Starshot is built on the [Drupal recipe system](https://drupal.org/project/distributions_recipes), so it doesn't lock you in like a normal distribution would.
 
-[![button.png](.tugboat%2Fbutton.png)](https://main-fw6eaiqwuojqnlnerzwoc8rf2ca8t4qq.tugboatqa.com/)
 
 [Learn more about Starshot on drupal.org.](https://drupal.org/starshot)
 
