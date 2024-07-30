@@ -1,0 +1,8 @@
+name: Shiju New component for starshot project
+type: Starshot
+description: Provides a new name for the starshot website.
+config:
+  actions:
+    system.site:
+      simple_config_update:
+        name: 'Shiju First Starshot website'
